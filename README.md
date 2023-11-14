@@ -60,4 +60,5 @@ Now we see that the probability has dramatically changed due to this roll. We se
 <img src="https://i.imgur.com/JyqrtCC.png" alt="image"/>
 <br/>
 
+This python code will take inputs on the number of times the die will be rolled and the value of each roll of the die. The program will return the posterior probability that a given die was chosen.
 <img src="https://i.imgur.com/zBFs4LN.jpg" alt="image"/>
