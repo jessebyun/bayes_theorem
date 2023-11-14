@@ -59,3 +59,5 @@ Now we see that the probability has dramatically changed due to this roll. We se
 <br/>
 <img src="https://i.imgur.com/JyqrtCC.png" alt="image"/>
 <br/>
+
+<img src="https://i.imgur.com/zBFs4LN.jpg" alt="image"/>
