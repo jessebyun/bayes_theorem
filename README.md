@@ -28,7 +28,9 @@ If someone rolled a 6. A 6-sided die has 1/6 chance, or 0.1666667; An 8-sided di
 <br/>
 
 
-However, you can't just enter those probabilities in this table, as it would be wrong. Not only because the probabilities don't add up to 1, but we need the probability of each die given that it has rolled a number, expressed in terms of conditional probability as P(die k | roll=6). This is where Bayes' Theorem comes into play. Then, using Bayes' Theorem we need to calculate the posterior probability for each die. First, we need to find the likelihood of each die rolling a given number which its sum is the total probability of rolling that given number. To calculate the posterior probability for each die, we divide the likeihood of each die rolling a given number by the total probability. That sum will be 1. 
+However, you can't just enter those probabilities in this table, as it would be wrong. Not only because the probabilities don't add up to 1, but we need the probability of each die given that it has rolled a number, expressed in terms of conditional probability as P(die k | roll=6). This is where Bayes' Theorem comes into play. Then, we need to calculate the posterior probability for each die. 
+
+First, we need to find the likelihood of each die rolling a given number by multiplying the chances of choosing that die with the probability of that die rolling a given number. The sum of the all the likelihoods is the total probability of rolling that given number. Then, to calculate the posterior probability for each die, we divide the likeihood of each die rolling a given number by the total probability. The sum of all the posterior probabilities is 1. 
 <br/>
 <img src="https://i.imgur.com/3Adx6RF.png" alt="image"/>
 <br/>
