@@ -1,4 +1,4 @@
-<h2>Using Bayes' Theorem in AI Decision-Making</h2>
+<h2>Using Bayes' Theorem in Statistical Decision-Making under Uncertainty</h2>
 
 Bayes' Theorem is a principle in probability theory that describes how to update the probabilities of hypotheses when given new evidence. It calculates the probability of an event based on prior knowledge of conditions that might be related to the event. In its basic form, the theorem states:
 
